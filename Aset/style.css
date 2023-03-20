@@ -1,0 +1,21 @@
+body {
+    max-width: 950px; 
+    margin: 0 auto; 
+    background-color: #ffffff;
+}
+
+.header {
+    margin-top: 10px;
+}
+
+.menu {
+    margin-bottom:10px;margin-top:10px;background-color: #9ED2C6;
+}
+
+.footer {
+    margin-top: 10px; border-top: 2px solid #000000;
+}
+
+#data_mhs {
+    margin: 0 auto;
+}
